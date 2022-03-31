@@ -1,6 +1,6 @@
 <H1>👋 Hi, I’m @Jasper20037</H1>
 
-- 👀 I’m interested in Learning new things
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning Laravel and Photoshop
 - 📫 Reach me! Jasperheuvel13@gmail.com 
 
