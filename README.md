@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Laravel and Photoshop
-- 📫 Reach me! Jasperheuvel13@gmail.com 
+- 📫 Reach me! Jasperheuvel13@gmail.com (or click the button below)
 
 <H2>Reach me!</H2>
 
