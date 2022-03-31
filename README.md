@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jasper20037
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning Laravel and Photoshop
-- 💞️ I’m looking to collaborate on anything
+<!-- - 💞️ I’m looking to collaborate on anything -->
 - 📫 Reach me! Jasperheuvel13@gmail.com 
 
 <!---
