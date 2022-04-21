@@ -1,6 +1,6 @@
 <H1>👋 Hi, I’m Jasper van den Heuvel</H1>
 
-- 👀 I’m interested in everything
+- 👀 I’m interested in Web development and 3D
 - 🌱 I’m currently learning Laravel and Photoshop
 - 📫 Reach me! Jasperheuvel13@gmail.com (or click the button below)
 
